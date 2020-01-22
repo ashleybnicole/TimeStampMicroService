@@ -1,0 +1,26 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice for FreeCodeCamps API-Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "author": "Ashley Harrison",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "moment": "^2.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleybnicole/timeStampMicroService.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleybnicole/timeStampMicroService/issues"
+  },
+  "homepage": "https://github.com/ashleybnicole/timeStampMicroService#readme"
+}
